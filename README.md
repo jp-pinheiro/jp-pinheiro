@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/jp-pinheiro">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jp-pinheiro&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp-pinheiro&layout=compact&langs_count=6&theme=nightowl"/>
+   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=jp-pinheiro&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp-pinheiro&layout=compact&langs_count=6&theme=nightowl"/>
 </div>
     
 <div style="display: inline_block"><br>
